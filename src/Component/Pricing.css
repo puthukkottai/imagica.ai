@@ -1,0 +1,66 @@
+#pricing-cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+.pricing-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+}
+
+.pricing-card h2 {
+  margin-top: 0;
+}
+
+.pricing-card h3 {
+  color: #007bff;
+}
+
+.pricing-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.pricing-card ul li {
+  margin-bottom: 5px;
+}
+
+.pricing-card button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.pricing-card button:hover {
+  background-color: #0056b3;
+}
+.App {
+  width: 100%;
+}
+.distance {
+  display: flex;
+  justify-content: space-around;
+
+  width: 100%;
+}
+section.pricing {
+  width: 100%;
+  background: none;
+}
+.card {
+  width: 450px;
+  margin-bottom: 5px;
+}
+.prising-head {
+  text-align: center;
+}

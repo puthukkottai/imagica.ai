@@ -1,0 +1,8 @@
+.testimonials-head {
+  height: 100vh;
+  padding-top: 140px;
+  flex-direction: row;
+}
+.testimonal-content {
+  background-color: rgb(238, 238, 242);
+}

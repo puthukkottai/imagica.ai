@@ -1,0 +1,19 @@
+.project-content {
+  font-family: sans-serif;
+
+  align-items: column;
+  justify-content: row;
+  height: 100vh;
+  padding-top: 30px;
+  margin-bottom: 50px;
+  background-color: rgb(238, 238, 242);
+}
+.project-list {
+  padding-top: 50px;
+}
+.project-img {
+  display: block; /* Ensures image behaves like a block element */
+  margin: 0 auto; /* Center horizontally */
+  /* Optionally, set max-width to ensure the image doesn't exceed its container */
+  max-width: 100%;
+}

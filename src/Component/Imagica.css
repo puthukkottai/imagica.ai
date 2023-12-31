@@ -1,0 +1,59 @@
+.imagica-container {
+  position: absolute;
+  top: 10%;
+  left: 25%;
+
+  text-align: center;
+  color: black;
+  width: 800px;
+}
+.head-head {
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(90, 90, 90, 0.75);
+  font-family: Roboto-Medium;
+}
+
+.head-para {
+  margin-top: 31px;
+  font-size: 36px;
+  line-height: 40px;
+  display: block;
+}
+.imagica-pagebtn {
+  text-decoration: none;
+  font-family: Ak-Regular;
+  color: rgb(18, 25, 43);
+  font-weight: 500;
+  font-size: 20px;
+  width: 285px;
+  height: 50px;
+  border-radius: 30px;
+
+  border: 1.8px solid rgba(2, 12, 38, 0.35);
+}
+.imagica-btn {
+  text-decoration: none;
+  font-family: Ak-Regular;
+  background: rgb(18, 25, 43);
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  font-size: 20px;
+  width: 285px;
+  height: 60px;
+  border-radius: 30px;
+  padding-top: 10px;
+}
+.head-para1 {
+  margin-top: 31px;
+  font-size: 36px;
+  line-height: 40px;
+  display: block;
+  padding-bottom: 60px;
+}
+.imagi-play {
+  font-size: 26px;
+  font-family: ak-thin;
+  padding-top: 130px;
+}
